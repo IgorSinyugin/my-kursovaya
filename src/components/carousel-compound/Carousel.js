@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState, Children, cloneElement } from "react"
+import { useEffect, useRef, useState } from "react"
 import {FaChevronLeft,FaChevronRight} from 'react-icons/fa'
 import { CarouselContext } from "./carousel-context"
 import "./Carousel.css"

@@ -1,17 +1,10 @@
 import logo from './img/svg/logo.svg';
 import search from './img/svg/search1.svg';
 import burger from './img/svg/burger.svg';
-
 import img1 from './img/afish/afish1.jpg';
 import img2 from './img/afish/afish2.jpg';
 import img3 from './img/afish/afish3.jpg';
-
-
-import lamp from './img/svg/lamp.svg'
-import background1 from './img/back1.png';
-import background2 from './img/back2.jpg';
 import React from 'react';
-import { render } from 'react-dom';
 import './App.css';
 
 import CarouselCompound from './components/carousel-compound'
